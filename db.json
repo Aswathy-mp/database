@@ -189,13 +189,210 @@
         "name":"A Woman Spinning Flax",
         "paintingname":"A Woman Spinning Flax",
         "dimension":"15 7/8 x 11 5/8 inches",
-        "price":"340000",
+        "price":"34000",
         "description":"No Description Available",
         "category":"Charcoal",
         "image":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/343149/741873/main-image",
         "email":"frankiie@gmail.com",
         "artist":"François Bonvin"
-    }
+    },
+
+    {
+        "name":"Lanterns ",
+        "paintingname":"Lanterns ",
+        "dimension":"24 x 18 inches",
+        "price":"35000",
+        "description":"What seems at ﬁrst glance to be black is really layers of purple, Phthalo Blue and other dark pigments to gradually build the darkest areas. The lighter grays were also mixed using Cobalt Blue, Quinacridone Coral and Quinacridone Gold.Rimpo creates her own grays and blacks by mixing colors. The result is much richer than using tube blacks or grays.",
+        "category":"Acrylic",
+        "image":"https://s32625.pcdn.co/wp-content/uploads/2018/04/Rimpo-April_Lanterns_AcrylicWorks5_artists-network-768x1039.jpg.optimal.jpg",
+        "email":"april@gmail.com",
+        "artist":"April M. Rimpo"
+    },
+    {
+        "name":"Fancy Feathers",
+        "paintingname":"Fancy Feathers",
+        "dimension":"16.00 x 10.63 inches",
+        "price":"85000",
+        "description":"Fancy Feathers was the result of hours of waiting to capture the perfect moment when the ﬂamingo opened his wing and displayed the spectrum of values from light, soft pink to deep black and every color in between. His head arched and his dark beak preening created a dramatic effect and displayed a beauty seldom seen.Painting with acrylics allows the freedom of layering very thin washes of color and slowly building the shape and form for a smooth transition from light to dark. It also gives opacity and intensity to color, needed to bring the subject to life realistically.",
+        "category":"Acrylic",
+        "image":"https://s32625.pcdn.co/wp-content/uploads/2018/04/Anderson_FancyFeathers-768x1154.jpg.optimal.jpg",
+        "email":"",
+        "artist":"Cher Anderson"
+    },
+    {
+        "name":"Artificial Nature",
+        "paintingname":"Artificial Nature",
+        "dimension":"16.00 x 10.63 inches",
+        "price":"45000",
+        "description":"To Wang, cacti represent all creatures in nature. Through the strong and independent characteristics that the cacti represent, the artist hopes to express the impact that human activity has on nature. The cast shadow in the background is actually a separate picture and represents that the cactus is growing in an unrealistic, unnatural surrounding.",
+        "category":"Acrylic",
+        "image":"https://s32625.pcdn.co/wp-content/uploads/2018/04/Wang_Artificial-Nature-550x1024.jpg.optimal.jpg",
+        "email":"",
+        "artist":" Jingyi Wang"
+    },
+    {
+        "name":"Crystal Blue Persuasion",
+        "paintingname":"Crystal Blue Persuasion",
+        "dimension":"24 x 18 inches",
+        "price":"85000",
+        "description":"A partially frozen brook was Leonard’s inspiration for this work. The varying levels of ice crystals, snow and dark-moving water all had to be captured. She used several different brushes as she constructed the combination of swift-moving and partially static areas. The varying shades of blue — from deep to almost pure white — convey the coldness. The warmer tones give a nod to the decaying leaves and pine needles that were on the shallow banks.",
+        "category":"Acrylic",
+        "image":"https://s32625.pcdn.co/wp-content/uploads/2018/04/Leonard_Crystal-Blue-Persua.jpg.optimal.jpg",
+        "email":"",
+        "artist":"Deborah B. Leonard"
+    },
+    {
+        "name":"Frances",
+        "paintingname":"Frances",
+        "dimension":"24 x 18 inches",
+        "price":"64000",
+        "description":"The artist works with heavy body acrylics. The fast drying nature of acrylics is perfect for her technique, which uses many quick textured layers applied with palette knives and brushes.",
+        "category":"Acrylic",
+        "image":"https://s32625.pcdn.co/wp-content/uploads/2018/04/Zhukova_Frances-PORTRAIT-SERIES-5-816x1024.jpg.optimal.jpg",
+        "email":"",
+        "artist":"Katia Zhukova"
+    },
+    {
+        "name":"The Morning After the Snowstorm ",
+        "paintingname":"The Morning After the Snowstorm ",
+        "dimension":"64 X 120 inches",
+        "price":"100000",
+        "description":"The artist applied a bright orange underpainting — the complement of the blue — as a unifying element. You can see a lot of it on the garage wall, but it peeks through all over. Hassard used mostly heavy body acrylics without extenders or other mediums.",
+        "category":"Acrylic",
+        "image":"https://s32625.pcdn.co/wp-content/uploads/2018/04/Hassard_MorningAfterTheStor.jpg.optimal.jpg",
+        "email":"",
+        "artist":"Ray Hassard"
+    },
     
+    
+    {
+        "name":"Cathedral of Llandaff",
+        "paintingname":"Cathedral of Llandaff",
+        "dimension":"129 mm x 182 mm",
+        "price":"120000",
+        "description":"The father of water painting Paul Sandby is an English watercolor artist of the eighteenth century. He began by painting a series of castles, and made a series of plates and caricatures which he published anonymously. In 1778, he painted the Cathedral of Llandaff in Wales. This watercolor of 129 mm by 182 mm and a perfect exemplar of the style of the painter.",
+        "category":"Watercolor",
+        "image":"https://blog.artsper.com/wp-content/uploads/2021/09/Paul-Sandby-Llandaff-Cathedral-1778-1.jpg",
+        "email":"",
+        "artist":"Paul Sandby "
+    },
+    {
+        "name":"Place de Diaghilev",
+        "paintingname":"Place de Diaghilev",
+        "dimension":"30 cm by 30 cm",
+        "price":"150000",
+        "description":"Straight from Oran, Nadéra Benmansour arrived in France in 1999 where she began to paint watercolors. Exhibited in many cities, she paints landscapes of Algeria but also of the city of Paris. In 2016, Nadéra painted the Place de Diaghilev in Paris, a watercolor of 30 cm by 30 that you can find on Artsper. ",
+        "category":"Watercolor",
+        "image":"https://blog.artsper.com/wp-content/uploads/2021/09/Place-de-Diaghilev-Nade%CC%81ra-Benmansour-1.jpg",
+        "email":"",
+        "artist":"Nadéra Benmansour"
+    },
+    {
+        "name":"Brown",
+        "paintingname":"Brown",
+        "dimension":"14 cm by 20 cm",
+        "price":"245000",
+        "description":"Tatiana Ivchenkova is a painter of Russian origin. As soon as she arrived in France, she started to paint and her works are now exhibited all over Europe. She paints portraits of people and uses a bright range of colors that have earned her great success. In 2020, she painted this watercolor of 14 cm by 20 cm made with a selection of brown color variants that she calls Marron. ",
+        "category":"Watercolor",
+        "image":"https://blog.artsper.com/wp-content/uploads/2021/09/Marron-Tatiana-Ivchenkova-1.jpg",
+        "email":"",
+        "artist":"Tatiana Ivchenkova"
+    },
+    {
+        "name":"he Marie Dieu doubling the point of Kerro’ch",
+        "paintingname":"he Marie Dieu doubling the point of Kerro’ch,",
+        "dimension":"43 x 54 inches",
+        "price":"54000",
+        "description":"From a very young age, Roger Hirsch was passionate about drawing. Later, he dedicated his time specifically to painting and more precisely to watercolors. He reproduces landscapes to perfection without forgetting any details. In 2018, he painted a landscape of Paimpol that he named La Marie Dieu doubling the tip of Kerro’ch. Note in particular the reflection of the boat in the water, which is perfectly executed.",
+        "category":"Watercolor",
+        "image":"https://blog.artsper.com/wp-content/uploads/2021/09/La-Marie-Dieu-doublant-la-pointe-de-Kerroch-Roger-Hirsch-1.jpg",
+        "email":"",
+        "artist":"Roger Hirsch"
+    },
+    {
+        "name":"Piazza San Marco",
+        "paintingname":"Piazza San Marco",
+        "dimension":"32 x 45 inches",
+        "price":"640000",
+        "description":"Antonio Guidotti is a sculptor and watercolorist from the twentieth century. In his works, he most often reproduces landscapes of the city of Venice. The watercolor Piazza San Marco was painted in 1920. It portrays the famous square of Venice, of which we can appreciate the numerous details.",
+        "category":"Watercolor",
+        "image":"https://blog.artsper.com/wp-content/uploads/2021/09/Marco-Antonio-Guidotti-1.jpg",
+        "email":"",
+        "artist":"Antonio Guidotti"
+    },
+    {
+        "name":"Sailboats on a Cycladic island in the Aegean Sea",
+        "paintingname":"Sailboats on a Cycladic island in the Aegean Sea",
+        "dimension":"32 x 45 inches",
+        "price":"54000",
+        "description":"Konstantinos is a Greek painter of the 20th century. In his works, he is inspired by seascapes to reproduce them. The artist mainly produces watercolors and in particular Sailboats on the edge of an island in the Cyclades in the Aegean Sea, in 1972. This watercolor in light tones, which is part of his flagship works, gives the impression that he is painting a landscape full of mist",
+        "category":"Watercolor",
+        "image":"https://blog.artsper.com/wp-content/uploads/2021/09/8.-Voiliers-au-bord-dune-i%CC%82le-des-cyclades-dans-la-mer-dE%CC%81ge%CC%81e-Konstantinos-Sofianopoulos-1.jpg",
+        "email":"",
+        "artist":"Konstantinos Sofianopoulos"
+    },
+    
+    
+    {
+        "name":" Anandhi ",
+        "paintingname":" Anandhi ",
+        "dimension":"24 x 56 inches",
+        "price":"45000",
+        "description":"No Description Available",
+        "category":"Mural",
+        "image":"https://webneel.com/daily/sites/default/files/images/daily/04-2021/3-stunning-kerala-mural-art-anandhi-manikandan-punnakkal.preview.jpg",
+        "email":"",
+        "artist":"Manikandan Punnakkal"
+    },{
+        "name":"Lotus ",
+        "paintingname":"Lotus ",
+        "dimension":"60 x 75 inches",
+        "price":"65000",
+        "description":" No Description Available",
+        "category":"Mural",
+        "image":"https://webneel.com/daily/sites/default/files/images/daily/04-2021/12-lotus-wall-thrissur-artist-pk-sadanandan.preview.jpg",
+        "email":"",
+        "artist":"P K Sadanandan"
+    },{
+        "name":"Gajendra Moksham",
+        "paintingname":"Gajendra Moksham",
+        "dimension":"90 x 120 inches",
+        "price":"150000",
+        "description":"No Description Available",
+        "category":"Mural",
+        "image":"https://webneel.com/daily/sites/default/files/images/daily/04-2021/14-indian-folk-art-keral-mural-art-gajendra-moksham-prince-thonnakkal.preview.jpg",
+        "email":"",
+        "artist":"Prince Thonnakkal"
+    },{
+        "name":"Mural Art",
+        "paintingname":"Mural Art",
+        "dimension":"48 x 64 inches",
+        "price":"95000",
+        "description":"No Description Available",
+        "category":"Mural",
+        "image":"https://webneel.com/daily/sites/default/files/images/daily/04-2021/20-stunning-kerala-mural-painting-artist-sreeraj-vp.preview.jpg",
+        "email":"",
+        "artist":"Sreeraj VP"
+    },{
+        "name":"Untitled Mural",
+        "paintingname":" Untitled Mural",
+        "dimension":"85 x 64 inches",
+        "price":"120000",
+        "description":"No Description Available",
+        "category":"Mural",
+        "image":"https://webneel.com/daily/sites/default/files/images/daily/04-2021/22-beautiful-kerala-mural-painting-vr-krishnan.preview.jpg",
+        "email":"",
+        "artist":" V R Krishnan "
+    },{
+        "name":"Krishna – Eternal Enchanter",
+        "paintingname":"Krishna – Eternal Enchanter",
+        "dimension":"64 x 54 inches",
+        "price":"120000",
+        "description":"No Description Available",
+        "category":"Mural",
+        "image":"https://www.keralamurals.in/wp-content/gallery/krishna-eternal-enchanter/krishna_gopis7.jpg?x80190",
+        "email":"",
+        "artist":"Naveen Bhasker"
+    }
     
 ]
