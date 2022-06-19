@@ -1,0 +1,201 @@
+[
+    {
+        "name":"Composition X",
+        "paintingname":"Composition X",
+        "dimension":"51.2 × 76.8 inches",
+        "price":"450000",
+        "description":"The key characteristic of this composition is obviously an immobile black ocean against the background of which colors and forms emerge in isolation. The magnificence of these colored forms leads to reflections about shapes, created by Matisse a decade later. The movement of forms is clearly directed upwards from both sides of the central axis, which crosses the object resembling a book and situating closer to the upper part of the canvas. In general the composition arouses sensation of some external space with soaring objects in it.",
+        "category":"Abstract",
+        "image":"https://www.wassilykandinsky.net/images/works/62.jpg?version=7",
+        "email":"kandinsky@gmail.com",
+        "artist":"Wassily Kandinsky"
+    },
+    {
+        "name":"Convergence ",
+        "paintingname":"Convergence ",
+        "dimension":"93.5 × 155 inches",
+        "price":"480000",
+        "description":"Jackson Pollock's style of painting, as exemplified by Convergence, is an important, innovative development in the history of painting. At the time of the painting, the United States took very seriously the threat of Communism and the cold war with Russia. Convergence was the embodiment of free speech and freedom of expression. Pollock threw mud in the face of convention and rebelled against the constraints of society's oppression. It was everything that America stood for all wrapped up in a messy, but deep package. ",
+        "category":"Abstract",
+        "image":"https://www.jackson-pollock.org/images/paintings/convergence.jpg",
+        "email":"pollock@outlook.com",
+        "artist":"Jackson Pollock"
+    },
+    {
+        "name":"Mountains and Sea",
+        "paintingname":"Mountains and Sea",
+        "dimension":"87 in × 117.2 inches",
+        "price":"350000",
+        "description":"At the interstice of Abstract Expressionism and Color-field painting lies Helen Frankenthaler’s ‘Mountains and Sea’. Frankenthaler was celebrated for her ‘soak-stain’ technique with this being the first work created using it. In this technique Frankenthaler thinned down her paint with turpentine or kerosene, and the resulting fluid would be absorbed through her unprimed canvases. This stain would leave an aura that gave her works a sense of perpetual movement. ",
+        "category":"Abstract",
+        "image":"https://ik.imagekit.io/theartling/prod/original_images/1998-Despues-de-Montanas-y-Mar-.jpg?tr=c-at_max,bg-FFFFFF,w-1090",
+        "email":"helen@outlook.com",
+        "artist":"Helen Frankenthaler"
+    },
+    {
+        "name":"Elegy to the Spanish Republic",
+        "paintingname":"Elegy to the Spanish Republic",
+        "dimension":"2.08 m x 3.51 m",
+        "price":"520000",
+        "description":"Although Robert Motherwell was only 21 when the Spanish Civil War broke out, its atrocities affected him greatly in the years to come. This resulted in him creating a series of more than 200 paintings in response to it.The series Elegy to the Spanish Republic serves as a multiplicity of commemorations of human suffering, as well as abstract, poetic symbols for the inexorable cycle of life and death. About the Elegies, Motherwell stated that, “After a period of painting them, I discovered Black as one of my subjects—and with black, the contrasting white, a sense of life and death which to me is quite Spanish. They are essentially the Spanish black of death contrasted with the dazzle of a Matisse-like sunlight.”",
+        "category":"Abstract",
+        "image":"https://ik.imagekit.io/theartling/prod/original_images/cri_000000203938.jpg?tr=c-at_max,bg-FFFFFF,w-1090",
+        "email":"robert@gmail.com",
+        "artist":"Robert Motherwell"
+    },
+    
+    {
+        "name":"Small Flies and Other Wings",
+        "paintingname":"Small Flies and Other Wings",
+        "dimension":"65 1/8 x 59 1/4 inches",
+        "price":"780000",
+        "description":"",
+        "category":"Abstract",
+        "image":"https://ik.imagekit.io/theartling/prod/original_images/christine-ay-tjoe-_-small_flies_and_other_wings__2013__oil_on_canvas__165x.jpg?tr=c-at_max,bg-FFFFFF,w-1090",
+        "email":"christine@yahoo.com",
+        "artist":"Christine Ay Tjoe"
+    },
+    {
+        "name":"Scorn",
+        "paintingname":"Scorn",
+        "dimension":"51.2 × 76.8 inches",
+        "price":"320000",
+        "description":"Tomoo Gokita’s abstract works are perfectly melded with the figurative. At his impressive first museum solo exhibition at Kawamura Memorial DIC Museum of Art in Chiba in 2014, ‘Scorn’ was cited by many to have stood out as the strongest painting of the show. This painting “perfectly balances the melancholy seductiveness of the soft gradations of gray, recalling an out-of-focus photograph, with an obscured face (a recurring image in his paintings)”. ",
+        "category":"Abstract",
+        "image":"https://ik.imagekit.io/theartling/prod/original_images/z4-nettleton-gokita-a-20140912.jpg?tr=c-at_max,bg-FFFFFF,w-1090",
+        "email":"gokita@outlook.com",
+        "artist":"Tomoo Gokita"
+    },
+
+
+
+    {
+        "name":"Poppies, Isles of Shoals",
+        "paintingname":"Poppies, Isles of Shoals",
+        "dimension":"19 3/4 x 24 inches",
+        "price":"750000",
+        "description":"Poppies, Isles of Shoals presents a broad vista moving from a dense foreground of flowers to a background of rocks, water, and sky. This view, centered on an outcropping called Babb's Rock, was one of Hassam's favorites, for he painted it many times. Although ample signs of man's presence were readily apparent from Celia Thaxter's garden, Hassam usually excluded them from his paintings. Here, only a passing sailboat hints that we are not in some pristine, wild environment.",
+        "category":"Pastel",
+        "image":"https://s32625.pcdn.co/wp-content/uploads/2017/05/poppies-isles-of-shoals_childe-hassam_pastel-art.jpg.webp",
+        "email":"childehasam@gmail.com",
+        "artist":"Childe Hassam"
+    },
+    {
+        "name":"Watering Horses, Sunset",
+        "paintingname":"Watering Horses, Sunset",
+        "dimension":"15 x 19 inches",
+        "price":"590000",
+        "description":"The colorism of Japanese woodblock prints may have stimulated Millet's inventive treatment of light, especially the unusual combinations of pink, blue, and green, in this stunning pastel.",
+        "category":"Pastel",
+        "image":"https://s32625.pcdn.co/wp-content/uploads/2017/05/watering-horses_jean-francois-Millet_pastel-1024x809.jpg.webp",
+        "email":"jeanFrancois@outlook.com",
+        "artist":"Jean-François Millet"
+    },{
+        "name":"The Dancing Class ",
+        "paintingname":"The Dancing Class",
+        "dimension":"20 cm x 27 cm",
+        "price":"780000",
+        "description":"The Dancing Class is an 1870 oil painting by Edgar Degas. It was his first ballet photograph. It displays a Paris Opéra dancing lesson.Degas did not yet have backstage access to the Opéra when he produced this painting. Degas said in the late 1870s, “I have done [painted] so many of these dancing inspections without seeing them that I am a bit embarrassed.”The dancer in the middle of the image is Joséphine Gaujelin (or Gozelin). She awaits the ballet master’s cue to begin. The watering can (used to dampen the rosin on the floor), the top hat used to carry the music, and the empty violin box are all props that Degas continued to utilize in his ballet paintings. Degas re-used the poses in this painting several times",
+        "category":"Pastel",
+        "image":"https://www.artst.org/wp-content/uploads/2022/01/The-Dancing-Class-Edgar-Degas.jpg.webp",
+        "email":"edgar@gmail.com",
+        "artist":"Edgar Degas"
+    },
+    {
+        "name":"Dandelions",
+        "paintingname":"Dandelions",
+        "dimension":"16 x 19 3/4 inches",
+        "price":"520000",
+        "description":"Millet would often employ pastel to sketch out ideas for his “peasant paintings.” However, he would also use the medium to create delicate drawings of nature, including sunlit landscapes, quiet seascapes, and enchanting studies of flora, like his whimsical Dandelions.“Millet excelled in the medium of pastel,” the Museum of Fine Arts, Boston, explains, “and his skill as a draftsman and colorist are evident here in the rich variety of greens that set off the flowers and in the airy delicacy of the dandelions, which are shown in all phases from bud to seed.”",
+        "category":"Pastel",
+        "image":"https://mymodernmet.com/wp/wp-content/uploads/2019/04/famous-pastel-artists-2.jpg",
+        "email":"jeanFrancois@outlook.com",
+        "artist":"Jean-Francois Millet"
+    },{
+        "name":" Bal du moulin de la Galette",
+        "paintingname":" Bal du moulin de la Galette",
+        "dimension":"1.31 m x 1.75 m",
+        "price":"560000",
+        "description":"Renoir's radical approach to the color black is even more evident in another version of Bal du moulin de la Galette. Rendered in a more sketch-like style, this smaller (30″ by 44″) painting features looser brushwork that enables viewers to more easily identify the different tones that compose seemingly black subject matter. While it is unclear which piece is the original and which is a copy, the paintings are identical in terms of their iconography, from the sunlit setting to the individual subjects.",
+        "category":"Pastel",
+        "image":"https://www.artst.org/wp-content/uploads/2020/06/Dance-at-Le-Moulin-De-La-Galette.jpg.webp",
+        "email":"pierre@gmail.com",
+        "artist":"Pierre-Auguste Renoir"
+    },{
+        "name":"Dance at Bougival",
+        "paintingname":"Dance at Bougival",
+        "dimension":"71.6 in × 38.6 inches",
+        "price":"680000",
+        "description":"It portrays a scene in the French town of Bougival, about 15 kilometers from Paris’s central business district, a location frequented by other Impressionists in addition to Renoir, including Claude Monet, Alfred Sisley, and Berthe Morisot.Two dancers are seen in the picture, surrounded by a bustling scene of café patrons. Although the painting’s themes are debatable, it is widely renowned for giving the feeling that they are moving, creating the illusion that the observer is truly there.",
+        "category":"Pastel",
+        "image":"https://www.artst.org/wp-content/uploads/2022/01/Dance-at-Bougival-Pierre-Auguste-Renoir.jpg.webp",
+        "email":"pierre@gmail.com",
+        "artist":"Pierre-Auguste Renoir"
+    },
+    
+    
+
+    {
+        "name":"Women Carrying Faggots",
+        "paintingname":"Women Carrying Faggots",
+        "dimension":"13 1/2 × 10 7/8 inches",
+        "price":"450000",
+        "description":"This extraordinary drawing in charcoal and gouache was once in the collection of the Dutch landscape painter Hendrick Mesdag (1831-1915), a collector of French artists of the Barbizon School. Millet was fascinated by the sight of peasants gathering, cutting, binding, and carrying faggots in the forest of Fontainebleau, his native landscape for much of his life. The Lehman sheet may relate to a painting of the same title now in the Hermitage, Saint Petersburg.",
+        "category":"Charcoal",
+        "image":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/459567/913719/main-image",
+        "email":"jeanFrancois@outlook.com",
+        "artist":"Jean-François Millet"
+    },{
+        "name":"River Landscape",
+        "paintingname":"River Landscape",
+        "dimension":"9 1/2 x 16 13/16 inches",
+        "price":"250000",
+        "description":"The leading artistic personality of Boston from the Civil War years until his death in 1879, Hunt pioneered the taste for French Barbizon art that emerged in America after the war and stimulated the native movement in mural painting with his work for the New York State Capitol in Albany. He began his career essentially as a portrait painter but in his later years indulged a growing taste for landscape in oil and charcoal. This drawing represents features of one of three sites in Massachusetts at which Hunt worked in the late 1870s: West Newbury, North Easton, and Magnolia, on Cape Ann. The artist’s preference for bold, coarse charcoal rendering recalls the favored medium and technique of his friend and paragon in France, Jean-Francois Millet, while the composition reflects the screen-like arrangement in the landscapes of Jean Baptist Camille Corot.",
+        "category":"Charcoal",
+        "image":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/14422/39643/main-image",
+        "email":"williamhunt@yahoo.com",
+        "artist":"William Morris Hunt "
+    },{
+        "name":"Saint John the Evangelist ",
+        "paintingname":"Saint John the Evangelist ",
+        "dimension":"20 7/16 x 9 5/8 inches",
+        "price":"340000",
+        "description":" It is a design for St. John the Evangelist, painted on the underside of the main arch over the altar of the chapel, and is the only surviving cartoon by Salviati. The artist posed the deeply expressive male figure in a relief-like plane, with an elegant contrapposto (the turning of the body and its limbs in counterpoints of form), to create suggestive profile and frontal views that enhance the visual power of the image. The drawing is executed with very dynamic contrasts of finish and unfinish, in which the charcoal is at times seamlessly blended for polished, highly luminous effects, while at other times the bold strokes of the charcoal applied in parallel and cross-hatching are left evident for expressive effects. As a final step, Salviati traced the outlines of the figure with a fine metal point, a quicker way to transfer the design onto the plaster fresco surface, than the technique of pricking and pouncing the outlines with a sharp point.",
+        "category":"Charcoal",
+        "image":"https://www.metmuseum.org/-/media/images/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/drawing/charcoal/6_1520.jpg?as=1&mh=1195&mw=1520&sc_lang=en&hash=E90A6F6213D77A62DA65E1412137B196",
+        "email":"Salviati@yahoo.com",
+        "artist":"Francesco Salviati"
+    },{
+        "name":" A Pond with a Fisherman along the River Ain",
+        "paintingname":" A Pond with a Fisherman along the River Ain",
+        "dimension":"51.2 × 76.8 inches",
+        "price":"680000",
+        "description":"No Description Available",
+        "category":"Charcoal",
+        "image":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/336807/1315156/main-image",
+        "email":"adolpheappian@gmail.com",
+        "artist":"Adolphe Appian"
+    },{
+        "name":" Armor ",
+        "paintingname":" Armor ",
+        "dimension":"20 x 14 1/2 inches",
+        "price":"660000",
+        "description":"This fantastical drawing of a helmeted woman in profile is one of four similar charcoal drawings Redon executed during the last decade of the nineteenth century. The sitter, rendered strangely mute by her helmetlike covering and untouchable by its thorny needles, varies slightly from sheet to sheet. While the exact meaning of Redon's image is unclear, it has been thought that the bizarre bondage imposed on his sitter expresses subconscious fear of female sexuality or, conversely, serves as a symbol of female fecundity. Equally important, however, is Redon's virtuoso handling of charcoal and his ability to capture its full range of tones, from the dark velvet quality of the helmet to the pallor of the woman's skin.",
+        "category":"Charcoal",
+        "image":"https://www.metmuseum.org/-/media/images/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/drawing/charcoal/8_1520.jpg?as=1&mh=1339&mw=1520&sc_lang=en&hash=40CBE572E32D47A5B59846A792A94CC5",
+        "email":"redonodilon@gmail.com",
+        "artist":"Odilon Redon"
+    },{
+        "name":"A Woman Spinning Flax",
+        "paintingname":"A Woman Spinning Flax",
+        "dimension":"15 7/8 x 11 5/8 inches",
+        "price":"340000",
+        "description":"No Description Available",
+        "category":"Charcoal",
+        "image":"https://collectionapi.metmuseum.org/api/collection/v1/iiif/343149/741873/main-image",
+        "email":"frankiie@gmail.com",
+        "artist":"François Bonvin"
+    }
+    
+    
+]
